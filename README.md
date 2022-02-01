@@ -4,6 +4,8 @@ This is instagram clone page with python-flask as its backend.
 `git clone https://github.com/1blackghost/Instagram-Hack-Prank.git`
 Clones the directory and files.
 `cd Instagram-Hack-Prank`
+Install the requirements
+`pip install -r requirements.txt`
 # How to run:
 ```python3 main.py```
 # Passwords-Retrival:
